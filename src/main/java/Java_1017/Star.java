@@ -31,7 +31,7 @@ public class Star {
 
         System.out.println("별의 층을 적으시오 >>");
         int N = sc.nextInt();*/
-        for (int i = 0; i <= 3; i++) {
+/*        for (int i = 0; i <= 3; i++) {
             for (int j = 3 - i; j >= 0; j--) {
                 System.out.print(" ");
 
@@ -42,7 +42,7 @@ public class Star {
             System.out.println();
 
 
-        }
+        }*/
     }
 
 }
